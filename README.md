@@ -1,6 +1,6 @@
-# 📈 Real-Time Crypto Price Tracker
+# Real-Time Crypto Price Tracker
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project is a real-time cryptocurrency tracking system that fetches live prices of Bitcoin and Ethereum using a public API and stores them for analysis.
 
@@ -8,13 +8,13 @@ It also includes a dashboard and alert system to monitor price movements.
 
 ---
 
-## ⚙️ Features
+##  Features
 
-* 🔄 Fetches real-time crypto prices using API
-* 💾 Stores data continuously in CSV
-* 📊 Analyzes historical trends
-* 🚨 Alerts when price crosses threshold
-* 📈 Interactive dashboard using Streamlit
+*  Fetches real-time crypto prices using API
+*  Stores data continuously in CSV
+*  Analyzes historical trends
+*  Alerts when price crosses threshold
+*  Interactive dashboard using Streamlit
 
 ---
 
